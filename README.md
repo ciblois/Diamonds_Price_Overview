@@ -1,4 +1,4 @@
-<img src="diamond.jpg" alt="Diamonds" width="100"/>
+<img src="diamond.jpg" alt="Diamonds" width="500"/>
 
 # Mini-Project | Diamonds Price Overview
 
@@ -13,5 +13,5 @@ It consists of cleaning the data, exploratory data visualization and an analytic
 ## Content
 
 - '1.-Data Cleaning.ipynb'
-- '2.-EDA.ipynb' with your responses
+- '2.-EDA.ipynb'
 - Tabelau dashboard link: https://public.tableau.com/profile/cinthya.langue.blois#!/vizhome/Mini_Project_Diamonds/Dashboard3
