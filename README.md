@@ -40,3 +40,4 @@ In this repository you will find the following files:
 ## Links
 
 [Dashboard](https://public.tableau.com/profile/cinthya.langue.blois#!/vizhome/Mini_Project_Diamonds/Dashboard3)
+[Website](http://cinthyablois.eu-west-2.elasticbeanstalk.com/)
